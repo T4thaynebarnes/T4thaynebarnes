@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T4thaynebarnes
-- 👀 I’m interested in ... Front End Web Development
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... JavaScript, CSS 
+- 👀 I’m interested in ... Front End & Back-End Web Development
+- 🌱 I’m currently learning ... Java
+- 💞️ I’m looking to collaborate on ... JavaScript, CSS, Java, Html
 - 📫 How to reach me ... thaynebarnes@gmail.com
 
 <!---
